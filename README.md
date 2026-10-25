@@ -1,44 +1,36 @@
-I'm a first-year Artificial Intelligence student passionate about technology, programming, and problem-solving.
+Hi, I'm Manisha Rathour! 👋
 
-💻 About Me
+🤖 BTech Artificial Intelligence Student | Aspiring AI Engineer
 
-🎓 BTech Artificial Intelligence Student
+I'm passionate about Artificial Intelligence, programming, and innovative technology. I'm currently practicing coding, exploring AI and Machine Learning, and developing my skills in web development and software engineering.
 
-🌐 Learning HTML, CSS, and Web Development
+💻 What I'm Learning
 
-☕ Exploring Java Programming
+🌐 HTML & CSS
 
-🤖 Interested in AI and Machine Learning
+☕ Java Programming
 
-🧩 Practicing coding and problem-solving
+🤖 Artificial Intelligence & Machine Learning
 
-🛠️ Technologies I'm Learning
-
-HTML & CSS
-
-Java
-
-Git & GitHub
-
-JavaScript
+🛠️ Git and GitHub
 
 🎯 My Goals
 
-Build real-world projects
+Build practical and innovative projects
 
-Become a skilled software engineer
+Improve my coding and problem-solving skills
 
-Explore AI and Machine Learning
+Explore intelligent technologies
 
-Improve my problem-solving skills
+Grow into a skilled software engineer
 
 🌱 My Motto
 
-Learn. Build. Improve. Repeat. 🚀
+Learn continuously. Build intelligently. Grow consistently. 🚀
 
 Thanks for visiting my profile! ⭐
 
-<!--
+
 **rathourmanisha5127-ctrl/rathourmanisha5127-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
