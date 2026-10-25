@@ -1,4 +1,42 @@
-## Hi there 👋
+I'm a first-year Artificial Intelligence student passionate about technology, programming, and problem-solving.
+
+💻 About Me
+
+🎓 BTech Artificial Intelligence Student
+
+🌐 Learning HTML, CSS, and Web Development
+
+☕ Exploring Java Programming
+
+🤖 Interested in AI and Machine Learning
+
+🧩 Practicing coding and problem-solving
+
+🛠️ Technologies I'm Learning
+
+HTML & CSS
+
+Java
+
+Git & GitHub
+
+JavaScript
+
+🎯 My Goals
+
+Build real-world projects
+
+Become a skilled software engineer
+
+Explore AI and Machine Learning
+
+Improve my problem-solving skills
+
+🌱 My Motto
+
+Learn. Build. Improve. Repeat. 🚀
+
+Thanks for visiting my profile! ⭐
 
 <!--
 **rathourmanisha5127-ctrl/rathourmanisha5127-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
