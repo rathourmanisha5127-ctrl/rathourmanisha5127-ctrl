@@ -31,6 +31,6 @@ Learn continuously. Build intelligently. Grow consistently. 🚀
 Thanks for visiting my profile! ⭐
 
 
-**rathourmanisha5127-ctrl/rathourmanisha5127-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
